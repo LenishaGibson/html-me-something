@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+  }
+  
+  header {
+    color: navy;
+    margin-left: 150px;
+  }
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border: 1px solid black;
+    background-color: rgb(21, 55, 66);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  <p class="intro">I have always looked at the commitment to creating new avenues of political and institutional power that is effective and efficient as a main goal of the majority of work I participate in. Being born and raised in an inner city of South Florida, you learn the importance of understanding how various systems around you work and how it impacts not only your personal life but also your community, your officials, your churches and consequently, future generations. The community I grew up in no longer exists as I knew. The name has changed. The hair salons, restaurants and barbershops that once painted the historic black business district is either no longer there or sparse. Matter fact, the memorable orange tree in my old backyard is gone. However, it’s finally gotten the sidewalks, speed bumps and parks that we wanted when we were younger. Majority of the potholes have been filled and more recently they are installing the electrical poles underground. The place is now called by a name I have no connection to and neither does my community. It has been painted with a new face that’s marketable to a new demographic and the cultural wealth of that community is stripped. But this is not just an issue that I have experienced in South Florida. No, this is more than a localized, regionalized issue. I have conversed with members of the black community in urban cities around the country, that have the same sentiments about the areas in which we grew up. In cities like Chicago, Detroit, Washington D.C. and Oakland, amongst countless others, we have voiced the fact that our own offspring will most likely not have access to their grandparents stomping grounds. They won’t know the religious sites, barbershops, parks, events or reasons behind the cultural wealth that has been erased in our communities.</p>
+
+  <div>
+  <p id="feelings">the black community has acquired gains in participation and representation within the political context, we are continuously challenged with shifting our political preferences into implemented legislation. Within my organizing efforts in college, I vividly remember talking with folks in our communities about the importance of voting only to be met with the response of frustration, agitation or apathy. I continuously tackle challenging their root issue behind not voting and why not moving to action didn’t make this any better. Building centralized black political power is being able to ensure no one in our communities harbor these feelings and it not be heard or acted upon until an election season.</p>
+  
+</div>
